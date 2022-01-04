@@ -120,7 +120,7 @@ li a:hover{
     margin-left: auto;
     margin-right: auto;
     display: flex;
-    margin-top: 250px;
+    margin-top: 300px;
     margin-bottom: 100px;
     justify-content: center;
 }
@@ -181,7 +181,7 @@ article{
 }
 
 .char_box{
-    margin-top: 95px;
+    margin-top: 45px;
     margin-bottom: 95px;
 }
 
